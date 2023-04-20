@@ -11,7 +11,6 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
-
 }
 
 // Step 1 - Create password arrays to contain the possible characters that can be used in the generated password.
