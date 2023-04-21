@@ -2,7 +2,7 @@
 // This line of code selects the HTML element with an id of "generate" and assigns it to the variable "generateBtn".
 var generateBtn = document.querySelector("#generate");
 
-/* Write password to the #password input
+/* Write password to the #password input element
 This is the script that writes the password to the HTML page and handles the code.
 This is the function that will be called when the "generate" button is clicked.
 It generates a password using the generatePassword() function and then assigns the password to the passwordText element on the HTML page. */
