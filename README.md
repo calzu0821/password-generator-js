@@ -40,7 +40,7 @@ https://calzu0821.github.io/password-generator-js/
  
 Screenshot of password generator:
 
-![alt text](assets/images) ![alt text](assets/images) ![alt text](assets/images) 
+![alt text](./Assets/images/screenshot-1.png) ![alt text](./Assets/images/screenshot-2.png) ![alt text](./Assets/images/screenshot-3.png) 
 
 ## Credits
 
