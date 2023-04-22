@@ -25,6 +25,7 @@ var passwordUser = []
 
 // Step 2 - Use a function and if/else statements to set the parameters for how many characters and what types of characters will be included in the generated password for the user.
 function generatePassword() {
+  passwordUser = []
   var passwordLength = prompt("How many characters would you like your password to contain?");
     if (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
       alert("Please enter a valid number length between 8 and 128 characters.");
